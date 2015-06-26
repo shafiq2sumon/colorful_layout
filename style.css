@@ -1,0 +1,82 @@
+
+.content {
+    margin: auto;
+    width: 80%;
+}
+.green {
+    background-color: #2ecd71;
+    height: 400px;
+}
+.green h1 {
+    color: white;
+    padding-top: 180px;
+    text-align: center;
+}
+.blue {
+    background-color: #3496d7;
+    height: 190px;
+}
+.blue h2 {
+    color: white;
+    padding-top: 85px;
+    text-align: center;
+}
+.red {
+    background-color: #e84c3d;
+    height: 190px;
+}
+.red h2 {
+    color: white;
+    padding-top: 85px;
+    text-align: center;
+}
+.yellow {
+    background-color: #f0c410;
+    height: 190px;
+}
+.yellow h2 {
+    color: white;
+    padding-top: 85px;
+    text-align: center;
+}
+.violet {
+    background-color: #9b58b5;
+    height: 190px;
+}
+.violet h2 {
+    color: white;
+    padding-top: 85px;
+    text-align: center;
+}
+.width {
+    margin: auto;
+    width: 95%;
+}
+.container-fluid {
+    background-color: #2ecd71;
+    margin-top: 100px;
+    min-height: 820px;
+}
+.content2 {
+    background-color: #ffffff;
+    margin: 5.3% auto;
+    min-height: 700px;
+    width: 90%;
+}
+h1 {
+    text-transform: capitalize;
+}
+h1, p, blockquote {
+    margin-left: 20px;
+}
+blockquote, p {
+    margin-right: 20px;
+}
+.lead {
+    margin: 0;
+}
+footer {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 10px;
+}
